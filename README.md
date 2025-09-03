@@ -28,7 +28,7 @@ Ele faz requisições à API, obtém a lista de vendas e mostra **ID, descriçã
 
 ## Estrutura do Projeto
 /projeto-Fecht
-│
+|
 ├── index.html # Página principal
 ├── script.js # Lógica JavaScript para consumir API
 
